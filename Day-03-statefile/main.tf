@@ -5,4 +5,6 @@ resource "aws_instance" "name" {
  tags = {
     Name = "punit-09:00"
   }
+
+
 }
